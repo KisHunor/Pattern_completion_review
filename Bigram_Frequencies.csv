@@ -1,0 +1,21 @@
+Bigram,Frequency,Type
+pattern completion,77,Human_Study
+partial cue,15,Human_Study
+partial degraded,15,Human_Study
+completion process,11,Human_Study
+degraded cue,8,Human_Study
+memory representation,7,Human_Study
+degraded input,7,Human_Study
+previously stored,6,Human_Study
+through process,6,Human_Study
+retrieval cue,6,Human_Study
+pattern completion,49,Rodent_Study
+ability retrieve,12,Rodent_Study
+partial degraded,12,Rodent_Study
+completion ability,11,Rodent_Study
+input pattern,8,Rodent_Study
+degraded input,6,Rodent_Study
+recurrent collateral,5,Rodent_Study
+partial cue,5,Rodent_Study
+retrieve stored,5,Rodent_Study
+memory representation,5,Rodent_Study
