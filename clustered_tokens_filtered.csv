@@ -1,0 +1,84 @@
+Token,Cluster_ID,Frequency,Type
+memory,2,94,"Human_Study, Rodent_Study"
+partial,4,65,"Human_Study, Rodent_Study"
+retrieval,2,47,"Human_Study, Rodent_Study"
+cue,3,57,"Human_Study, Rodent_Study"
+process,3,42,"Human_Study, Rodent_Study"
+representation,0,42,"Human_Study, Rodent_Study"
+degraded,0,40,"Human_Study, Rodent_Study"
+event,0,20,Human_Study
+information,0,30,"Human_Study, Rodent_Study"
+element,0,17,Human_Study
+hippocampus,3,25,"Human_Study, Rodent_Study"
+input,3,39,"Human_Study, Rodent_Study"
+stored,2,23,"Human_Study, Rodent_Study"
+ca3,0,30,"Human_Study, Rodent_Study"
+hippocampal,3,11,Human_Study
+reinstatement,2,10,Human_Study
+complete,4,14,"Human_Study, Rodent_Study"
+neural,3,13,"Human_Study, Rodent_Study"
+all,4,9,Human_Study
+mechanism,3,9,Human_Study
+incomplete,4,14,"Human_Study, Rodent_Study"
+through,1,8,Human_Study
+one,0,8,Human_Study
+previously,0,7,Human_Study
+item,0,7,Human_Study
+trace,1,7,Human_Study
+experience,0,7,Human_Study
+episodic,4,7,Human_Study
+reactivation,3,7,Human_Study
+function,0,6,Human_Study
+similar,4,10,"Human_Study, Rodent_Study"
+ability,0,24,"Human_Study, Rodent_Study"
+retrieved,2,6,Human_Study
+via,1,5,Human_Study
+known,0,5,Human_Study
+network,1,22,"Human_Study, Rodent_Study"
+allows,0,5,Human_Study
+entire,4,11,"Human_Study, Rodent_Study"
+mnemonic,3,5,Human_Study
+model,1,5,Human_Study
+associative,0,10,"Human_Study, Rodent_Study"
+only,0,5,Human_Study
+noisy,1,10,"Human_Study, Rodent_Study"
+memory,2,94,"Human_Study, Rodent_Study"
+input,3,39,"Human_Study, Rodent_Study"
+partial,4,65,"Human_Study, Rodent_Study"
+cue,3,57,"Human_Study, Rodent_Study"
+ability,0,24,"Human_Study, Rodent_Study"
+retrieve,2,18,Rodent_Study
+degraded,0,40,"Human_Study, Rodent_Study"
+network,1,22,"Human_Study, Rodent_Study"
+ca3,0,30,"Human_Study, Rodent_Study"
+representation,0,42,"Human_Study, Rodent_Study"
+recall,2,16,Rodent_Study
+process,3,42,"Human_Study, Rodent_Study"
+information,0,30,"Human_Study, Rodent_Study"
+recurrent,4,10,Rodent_Study
+stored,2,23,"Human_Study, Rodent_Study"
+hippocampus,3,25,"Human_Study, Rodent_Study"
+retrieval,2,47,"Human_Study, Rodent_Study"
+stimulus,3,7,Rodent_Study
+autoassociative,0,7,Rodent_Study
+feature,0,7,Rodent_Study
+activity,1,6,Rodent_Study
+entire,4,11,"Human_Study, Rodent_Study"
+incomplete,4,14,"Human_Study, Rodent_Study"
+full,4,5,Rodent_Study
+collateral,4,5,Rodent_Study
+subset,2,5,Rodent_Study
+original,4,5,Rodent_Study
+sensory,3,5,Rodent_Study
+noisy,1,10,"Human_Study, Rodent_Study"
+associative,0,10,"Human_Study, Rodent_Study"
+contextual,3,4,Rodent_Study
+content,2,4,Rodent_Study
+complete,4,14,"Human_Study, Rodent_Study"
+presented,0,4,Rodent_Study
+retrieving,2,4,Rodent_Study
+computational,1,4,Rodent_Study
+similar,4,10,"Human_Study, Rodent_Study"
+role,0,4,Rodent_Study
+neural,3,13,"Human_Study, Rodent_Study"
+place,2,3,Rodent_Study

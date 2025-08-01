@@ -1,0 +1,97 @@
+Token;Frequency;Type;Cluster;Cluster_ names
+memory;49;Human_Study;3; Cues & Patterns
+partial;41;Human_Study;4;Input Quality & State
+retrieval;38;Human_Study;2;Retrieval Actions & Processes
+cue;37;Human_Study;3; Cues & Patterns
+process;28;Human_Study;6;Process and Memory Mechanism
+representation;25;Human_Study;3; Cues & Patterns
+degraded;22;Human_Study;4;Input Quality & State
+event;20;Human_Study;3; Cues & Patterns
+information;17;Human_Study;3; Cues & Patterns
+element;17;Human_Study;3; Cues & Patterns
+hippocampus;15;Human_Study;1;Neural Substrate & Computational Mechanisms
+input;14;Human_Study;3; Cues & Patterns
+stored;13;Human_Study;5;Output Characteristics & Completeness
+ca3;13;Human_Study;1;Neural Substrate & Computational Mechanisms
+based;13;Human_Study;7;Other
+hippocampal;11;Human_Study;1;Neural Substrate & Computational Mechanisms
+reinstatement;10;Human_Study;2;Retrieval Actions & Processes
+complete;10;Human_Study;5;Output Characteristics & Completeness
+when;10;Human_Study;7;Other
+neural;9;Human_Study;1;Neural Substrate & Computational Mechanisms
+all;9;Human_Study;5;Output Characteristics & Completeness
+mechanism;9;Human_Study;6;Process and Memory Mechanism
+incomplete;8;Human_Study;4;Input Quality & State
+through;8;Human_Study;7;Other
+one;8;Human_Study;4;Input Quality & State
+previously;7;Human_Study;5;Output Characteristics & Completeness
+item;7;Human_Study;3; Cues & Patterns
+trace;7;Human_Study;3; Cues & Patterns
+experience;7;Human_Study;3; Cues & Patterns
+episodic;7;Human_Study;3; Cues & Patterns
+reactivation;7;Human_Study;2;Retrieval Actions & Processes
+function;6;Human_Study;6;Process and Memory Mechanism
+similar;6;Human_Study;4;Input Quality & State
+ability;6;Human_Study;6;Process and Memory Mechanism
+thought;6;Human_Study;7;Other
+retrieved;6;Human_Study;2;Retrieval Actions & Processes
+termed;5;Human_Study;7;Other
+via;5;Human_Study;7;Other
+known;5;Human_Study;5;Output Characteristics & Completeness
+network;5;Human_Study;1;Neural Substrate & Computational Mechanisms
+allows;5;Human_Study;6;Process and Memory Mechanism
+entire;5;Human_Study;5;Output Characteristics & Completeness
+mnemonic;5;Human_Study;3; Cues & Patterns
+model;5;Human_Study;7;Other
+associative;5;Human_Study;1;Neural Substrate & Computational Mechanisms
+only;5;Human_Study;4;Input Quality & State
+noisy;5;Human_Study;4;Input Quality & State
+et;5;Human_Study;7;Other
+memory;45;Rodent_Study;3; Cues & Patterns
+input;25;Rodent_Study;4;Input Quality & State
+partial;24;Rodent_Study;4;Input Quality & State
+cue;20;Rodent_Study;3; Cues & Patterns
+ability;18;Rodent_Study;6;Process and Memory Mechanism
+retrieve;18;Rodent_Study;2;Retrieval Actions & Processes
+degraded;18;Rodent_Study;4;Input Quality & State
+network;17;Rodent_Study;1;Neural Substrate & Computational Mechanisms
+ca3;17;Rodent_Study;1;Neural Substrate & Computational Mechanisms
+representation;17;Rodent_Study;3; Cues & Patterns
+recall;16;Rodent_Study;2;Retrieval Actions & Processes
+process;14;Rodent_Study;6;Process and Memory Mechanism
+information;13;Rodent_Study;3; Cues & Patterns
+recurrent;10;Rodent_Study;1;Neural Substrate & Computational Mechanisms
+stored;10;Rodent_Study;5;Output Characteristics & Completeness
+when;10;Rodent_Study;7;Other
+hippocampus;10;Rodent_Study;1;Neural Substrate & Computational Mechanisms
+retrieval;9;Rodent_Study;2;Retrieval Actions & Processes
+ie;7;Rodent_Study;7;Other
+stimulus;7;Rodent_Study;3; Cues & Patterns
+autoassociative;7;Rodent_Study;1;Neural Substrate & Computational Mechanisms
+feature;7;Rodent_Study;6;Process and Memory Mechanism
+activity;6;Rodent_Study;6;Process and Memory Mechanism
+entire;6;Rodent_Study;5;Output Characteristics & Completeness
+incomplete;6;Rodent_Study;4;Input Quality & State
+full;5;Rodent_Study;5;Output Characteristics & Completeness
+based;5;Rodent_Study;7;Other
+collateral;5;Rodent_Study;1;Neural Substrate & Computational Mechanisms
+subset;5;Rodent_Study;4;Input Quality & State
+original;5;Rodent_Study;5;Output Characteristics & Completeness
+sensory;5;Rodent_Study;3; Cues & Patterns
+marr;5;Rodent_Study;7;Other
+noisy;5;Rodent_Study;4;Input Quality & State
+associative;5;Rodent_Study;1;Neural Substrate & Computational Mechanisms
+contextual;4;Rodent_Study;7;Other
+content;4;Rodent_Study;3; Cues & Patterns
+complete;4;Rodent_Study;5;Output Characteristics & Completeness
+presented;4;Rodent_Study;3; Cues & Patterns
+retrieving;4;Rodent_Study;2;Retrieval Actions & Processes
+computational;4;Rodent_Study;1;Neural Substrate & Computational Mechanisms
+similar;4;Rodent_Study;4;Input Quality & State
+role;4;Rodent_Study;6;Process and Memory Mechanism
+suggest;4;Rodent_Study;7;Other
+neural;4;Rodent_Study;1;Neural Substrate & Computational Mechanisms
+1971;4;Rodent_Study;7;Other
+ha;3;Rodent_Study;7;Other
+been;3;Rodent_Study;7;Other
+place;3;Rodent_Study;3; Cues & Patterns
